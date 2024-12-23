@@ -1,1 +1,7 @@
-# CS-350
+Throughout the course, the first two milestones focused on learning the basics of Code Composer Studio (CCS) and how to work with our development boards. The first milestone involved getting a light to blink, and the second required making the light blink at specific times and intensities. I felt I accomplished these tasks well, meeting the requirements and gaining a decent understanding of CCS.
+
+However, I faced significant challenges during the final milestone and exam. I struggled with navigating the CCS environment, particularly the Resource Explorer, and encountered an issue where the software could no longer detect my board. This created a series of difficulties I was unable to overcome towards the end of the class.
+
+Throughout the course, I utilized various resources such as message boards, videos, and class announcements, all of which were extremely helpful. For example, finding that I needed an older version of Code Composer early on in the class allowed me to overcome some initial hurdles. Additionally, I gained valuable mechanical knowledge about parts and components from the reading materials, which added to my understanding of the subject.
+
+That said, I feel my lack of fluency with CCS hindered my ability to apply the knowledge I gained effectively. I did my best to keep my code clean, well-annotated, and organized, which not only helped me stay on track but also assisted with troubleshooting when I encountered issues.
